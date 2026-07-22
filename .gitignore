@@ -1,0 +1,47 @@
+# ==========================================
+# SENSITIVE DATA — NEVER COMMIT
+# ==========================================
+
+# Local config with real usernames
+config.py
+
+# Instagram sessions (auth cookies)
+session-*
+*.session
+
+# Meta Data Downloads (personal ZIPs and extracts)
+instagram-*.zip
+meta_*/
+*_meta/
+
+# Scan results & personal exports
+*.csv
+!requirements-example.csv
+checkpoint*.json
+unfollow_log.csv
+
+# ==========================================
+# PYTHON
+# ==========================================
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# ==========================================
+# JUPYTER
+# ==========================================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ==========================================
+# IDE / OS
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
