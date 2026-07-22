@@ -194,4 +194,11 @@ responsibility for account restrictions resulting from use of this tool.
 
 ## 📄 License
 
-MIT
+## 📄 License
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+You may use, share, and adapt this project for personal, educational, and 
+research purposes with proper attribution. **Commercial use is not permitted.**
+
+See LICENSE for the full terms.
